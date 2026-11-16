@@ -1,0 +1,10 @@
+{
+  "name": "mail-agent",
+  "description": "Cuatro skills de Claude que gestionan tu correo de Gmail: clasifican (publicidad, spam, importante, phishing), te dan de baja de newsletters y promociones, ordenan por importancia con un resumen diario y preparan respuestas que solo se envían si tú las apruebas.",
+  "version": "1.0.0",
+  "author": { "name": "Martín García", "url": "https://www.instagram.com/soymartin.garcia/" },
+  "homepage": "https://github.com/martinihub/mail-agent-skill",
+  "repository": "https://github.com/martinihub/mail-agent-skill",
+  "license": "MIT",
+  "keywords": ["gmail", "email", "correo", "inbox", "spam", "phishing", "newsletter", "productividad"]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mail-agent-skill",
+  "description": "Mail Agent Skill: Claude gestiona tu correo por ti",
+  "owner": { "name": "Martín García", "url": "https://www.instagram.com/soymartin.garcia/" },
+  "plugins": [
+    {
+      "name": "mail-agent",
+      "description": "Cuatro skills de Claude para Gmail: clasificar, desuscribirse, priorizar con resumen diario y responder con tu aprobación.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/martinihub/mail-agent-skill"
+    }
+  ]
+}
